@@ -2,7 +2,7 @@
   "name-web":"MAS JEKI SITE",
   "author":"MASJEKI",
   "remove-comment-html":true,
-  "target":"https://www.houzz.com",
+  "target":"https://www.thespruce.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
